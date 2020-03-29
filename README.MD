@@ -13,6 +13,13 @@ Enter the password. (*See FB post*)
 
 You can also find the game by searching for my NickName "kilted_nerd".
 
+## Zoom
+
+We're doing this shit over zoom.  
+[Desktop Client](https://zoom.us/download)  
+[Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)  
+[IOS](https://itunes.apple.com/us/app/id546505307)  
+
 ## Android app
 
 [Client for Pretend You're Xyzzy (open source)](https://play.google.com/store/apps/details?id=com.gianlu.pretendyourexyzzy&hl=en_US)
