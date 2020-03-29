@@ -4,7 +4,7 @@
 
 This is the name of the [site](https://pyx-4.pretendyoure.xyz/zy/game.jsp). Works best on a computer, but usable on mobile. There is an [android app](#android-app) if you want to use that. Instructions for that are at the end. 
 
-Here is the link to the game I have setup. (Not ready yet)  
+Here is the link to the game I have setup.  
 **LINK NOT READY YET, BUT WILL GO HERE**
 
 When you get to the site, create any NickName. Optional ID code is optional.
