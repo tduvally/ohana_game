@@ -2,7 +2,7 @@
 
 ## Pretend you're Xyzzy 
 
-This is the name of the site. Works best on a computer, but usable on mobile. There is an [android app](#android-app) if you want to use that. Instructions for that are at the end. 
+This is the name of the [site](https://pyx-4.pretendyoure.xyz/zy). Works best on a computer, but usable on mobile. There is an [android app](#android-app) if you want to use that. Instructions for that are at the end. 
 
 Here is the link to the game I have setup. (Not ready yet)  
 **LINK NOT READY YET, BUT WILL GO HERE**
