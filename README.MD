@@ -5,7 +5,7 @@
 This is the name of the site. Works best on a computer, but usable on mobile. There is an [android app](#android-app) if you want to use that. Instructions for that are at the end. 
 
 
-Here is the link to the game I have setup. 
+Here is the link to the game I have setup.  
 https://pyx-4.pretendyoure.xyz/zy/game.jsp#game=XXX
 
 When you get to the site, create any NickName. Optional ID code is optional.
